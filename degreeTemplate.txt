@@ -1,0 +1,14 @@
+University of Delhi
+      Delhi
+
+{Student_Name} ({Roll_number})
+has successfully completed
+{Name_of_Programme}
+in the year
+{Year}
+with
+{Percentage}% of marks.
+
+Date of Issue: {date_of_creation}
+
+Signing Authority  
